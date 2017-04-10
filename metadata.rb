@@ -1,0 +1,7 @@
+name 'aws_inspector'
+maintainer 'Vijay Bheemineni'
+maintainer_email 'bheemineni.vijay@gmail.com'
+license 'Apache 2.0'
+description 'Installs/Configures aws_inspector'
+long_description 'Installs/Configures aws_inspector'
+version '0.1.0'
